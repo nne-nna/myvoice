@@ -14,7 +14,7 @@ $ git clone https://github.com/nne-nna/myvoice.git
 Install the speech_recognition library. You can do this by running the following command in your terminal:
 
 ```commandline
-$ pip install SpeechRecognition
+$ pip3 install SpeechRecognition
 ```
 
 
@@ -22,7 +22,7 @@ $ pip install SpeechRecognition
 Run the Python script  in your terminal.
 
 ```commandline
-$ python speech_rpiecognition.py
+$ python3 main.py
 ```
 
 The program prints the recognized speech from the audio file 'nnenna.wav' to the console.
